@@ -63,4 +63,6 @@ console.log('What is the topping on anObjects' ,anObjects['topping']);
 //Booleans
 const yes = true;
 const no = false;
+//const true = 3; badd!! 
+
 
