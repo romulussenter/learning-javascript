@@ -31,3 +31,13 @@ console.log("aNumber: " , aNumber);
 console.log("anotherNumber:" ,anotherNumber);
 console.log("Type of aNumber: " ,typeof aNumber);
 console.log("Type of anotherNumber: ", typeof anotherNumber);
+
+//Number will come back up. There is more to know.
+//Arrays
+const anArray = [1, 2, 3, 4]; // an array of number
+const aStringArray =["cheese", "bacon" , "egg"]; //an array of strings
+console.log("anArray:" , anArray);
+console.log("aStringArray: ", aStringArray);
+console.log("How many elements are in anArray:" , anArray.length);
+
+console.log("What is the type of anArray:" ,typeof anArray);
