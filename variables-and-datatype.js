@@ -41,3 +41,26 @@ console.log("aStringArray: ", aStringArray);
 console.log("How many elements are in anArray:" , anArray.length);
 
 console.log("What is the type of anArray:" ,typeof anArray);
+console.log('What is the index 1 element of anArray?' ,anArray[1] );
+
+//We are diffinitely not finished with arrays.
+//Objects
+const anObjects = {
+    'color': 'red', //key.value => key is 'color' the value is 'red'
+    size: 500, // key are strings, but the quotes are implied
+    'topping': ['peperoni' , 'cheese']
+    
+};
+
+console.log("anObject: ", anObjects);
+console.log("Type of anObject ", typeof anObjects);
+console.log('What is the color of the object?' ,anObjects.color);
+console.log('What is the size of the object' , anObjects.size);
+console.log('What is the topping on anObjects' ,anObjects['topping']);
+
+
+//Objects are everywhere! We will return.
+//Booleans
+const yes = true;
+const no = false;
+
